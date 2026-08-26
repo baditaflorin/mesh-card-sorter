@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "app": "mesh-card-sorter",
+  "sourceCommit": "22751b7edb010042f960cc2e186c2a111cf716ca",
+  "releaseCommit": "22751b7edb010042f960cc2e186c2a111cf716ca",
+  "meshCommonCommit": "025f7ff72e50c4b54a3f4a2d8c88f4f600dec78f",
+  "recordedAt": "2026-08-26T19:01:47Z"
+}
